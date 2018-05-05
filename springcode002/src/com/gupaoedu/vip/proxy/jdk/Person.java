@@ -1,5 +1,9 @@
 package com.gupaoedu.vip.proxy.jdk;
 
-public interface Person {
+/**
+ * 人  接口
+ */
+public interface Person{
+    //寻找真爱
     void findLove();
 }
